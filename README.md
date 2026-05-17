@@ -29,7 +29,7 @@ Since June 2025 I've been on a career break to upskill into Microsoft Azure. I'm
 
 ### Tech I'm working with
 
-**Cloud:** Azure (VMs, VNets, NSGs, Storage, Entra ID, RBAC, Monitor, Backup) · AWS Outposts (from Amazon)  
+**Cloud:** Azure (VMs, VNets, NSGs, Storage, Entra ID, RBAC, Monitor, Backup)  
 
 **IaC & Automation:** Terraform · Azure CLI · Bash · PowerShell (basics)  
 
