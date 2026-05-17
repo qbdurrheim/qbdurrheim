@@ -50,12 +50,16 @@ That foundation is what I'm now mapping onto Azure: on-prem networking concepts 
 ### 📊 Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=qbdurrheim&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbdurrheim&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <a href="https://github.com/qbdurrheim">
+    <img src="https://github-readme-stats.vercel.app/api?username=qbdurrheim&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800&include_all_commits=true" height="160" alt="GitHub stats" />
+  </a>
+  <a href="https://github.com/qbdurrheim">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=qbdurrheim&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="160" alt="Top languages" />
+  </a>
 </p>
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qbdurrheim&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://streak-stats.demolab.com/?user=qbdurrheim&theme=tokyonight&hide_border=true" height="160" alt="GitHub streak" />
 </p>
 
 ---
