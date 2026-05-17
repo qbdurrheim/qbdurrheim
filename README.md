@@ -29,10 +29,14 @@ Since June 2025 I've been on a career break to upskill into Microsoft Azure. I'm
 
 ### Tech I'm working with
 
-**Cloud:** Azure (VMs, VNets, NSGs, Storage, Entra ID, RBAC, Monitor, Backup) · AWS Outposts (from Amazon)
-**IaC & Automation:** Terraform · Azure CLI · Bash · PowerShell (basics)
-**Linux:** Ubuntu Server · Apache · SSH key auth · file permissions · firewall rules
-**Networking:** Cisco · Juniper · SD-WAN · TCP/IP · VLANs · DNS · DHCP · VPN
+**Cloud:** Azure (VMs, VNets, NSGs, Storage, Entra ID, RBAC, Monitor, Backup) · AWS Outposts (from Amazon)  
+
+**IaC & Automation:** Terraform · Azure CLI · Bash · PowerShell (basics)  
+
+**Linux:** Ubuntu Server · Apache · SSH key auth · file permissions · firewall rules  
+
+**Networking:** Cisco · Juniper · SD-WAN · TCP/IP · VLANs · DNS · DHCP · VPN  
+
 **Tools:** Git · GitHub · VS Code · ServiceNow
 
 ---
