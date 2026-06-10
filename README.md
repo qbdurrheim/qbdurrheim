@@ -2,10 +2,6 @@
 
 IT Engineer with a decade of hands-on infrastructure experience — most of it at Amazon — now transitioning into a cloud-focused role.
 
-Since June 2025 I've been on a career break to upskill into Microsoft Azure. I'm using this GitHub to build, document, and share the lab projects I do alongside my certification study.
-
-🇬🇧 Returning to the UK in June 2026 · 🇿🇦 UK/SA dual citizen — no sponsorship required.
-
 ---
 
 ### What I'm doing right now
