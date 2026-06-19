@@ -6,7 +6,7 @@ IT Engineer with a decade of hands-on infrastructure experience — most of it a
 
 ### What I'm doing right now
 
-- ☁️ Studying **AZ-400** (Microsoft DevOps Engineer Expert)
+- ☁️ Studying **MD-102** (Microsoft Endpoint Administrator)
 - 🐧 Building **Linux** fundamentals (Ubuntu Server, Apache, SSH hardening)
 - 🏗️ Learning **Terraform** and Infrastructure as Code
 - 🔬 Running hands-on labs in Azure to lock in real-world patterns, not just exam theory
