@@ -19,7 +19,7 @@ IT Engineer with a decade of hands-on infrastructure experience — most of it a
 - ✅ **Microsoft Certified: Azure Fundamentals** (AZ-900)
 - ✅ **CompTIA Network+**
 - ✅ **CompTIA A+**
-- 🎯 **Microsoft Certified: DevOps Engineer Expert** (AZ-400) — in progress
+- 🎯 **Microsoft Certified: MD-102: Endpoint Administrator — in progress
 
 ---
 
